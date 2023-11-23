@@ -1,4 +1,4 @@
-package com.xuyw.sftp.pool.core;
+package com.github.one.core;
 
 import com.jcraft.jsch.ChannelSftp;
 

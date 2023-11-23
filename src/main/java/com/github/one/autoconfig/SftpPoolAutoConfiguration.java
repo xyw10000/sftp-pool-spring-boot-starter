@@ -1,9 +1,9 @@
-package com.xuyw.sftp.pool.autoconfig;
+package com.github.one.autoconfig;
 
-import com.xuyw.sftp.pool.config.SftpConnectionProperties;
-import com.xuyw.sftp.pool.config.SftpPoolProperties;
-import com.xuyw.sftp.pool.core.SftpSessionFactory;
-import com.xuyw.sftp.pool.core.SftpTemplate;
+import com.github.one.config.SftpConnectionProperties;
+import com.github.one.config.SftpPoolProperties;
+import com.github.one.core.SftpSessionFactory;
+import com.github.one.core.SftpTemplate;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

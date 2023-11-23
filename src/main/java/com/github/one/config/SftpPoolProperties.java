@@ -1,4 +1,4 @@
-package com.xuyw.sftp.pool.config;
+package com.github.one.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

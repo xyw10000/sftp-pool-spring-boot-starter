@@ -1,4 +1,4 @@
-package com.xuyw.sftp.pool.core;
+package com.github.one.core;
 
 /**
  * @author one.xu

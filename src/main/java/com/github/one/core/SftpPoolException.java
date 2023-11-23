@@ -1,4 +1,4 @@
-package com.xuyw.sftp.pool.core;
+package com.github.one.core;
 
 import org.springframework.core.NestedRuntimeException;
 import org.springframework.lang.Nullable;

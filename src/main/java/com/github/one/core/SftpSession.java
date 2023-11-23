@@ -1,10 +1,10 @@
-package com.xuyw.sftp.pool.core;
+package com.github.one.core;
 
 import com.jcraft.jsch.ChannelSftp;
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.Session;
 import com.jcraft.jsch.SftpException;
-import com.xuyw.sftp.pool.config.SftpConnectionProperties;
+import com.github.one.config.SftpConnectionProperties;
 import lombok.Data;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;

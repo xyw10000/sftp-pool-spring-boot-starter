@@ -1,7 +1,7 @@
-package com.xuyw.sftp.pool.core;
+package com.github.one.core;
 
-import com.xuyw.sftp.pool.config.SftpConnectionProperties;
-import com.xuyw.sftp.pool.config.SftpPoolProperties;
+import com.github.one.config.SftpConnectionProperties;
+import com.github.one.config.SftpPoolProperties;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.pool2.BasePooledObjectFactory;
