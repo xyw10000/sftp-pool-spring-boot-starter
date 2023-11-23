@@ -10,6 +10,18 @@ sftp-pool 是一个 SFTP 的 SpringBoot Starter，使用Apache commons-pool2管�
 ## Maven 依赖
 
 依赖 Apache commons-pool2：
+```xml
+<dependency>
+    <groupId>io.github.xyw10000</groupId>
+    <artifactId>sftp-pool-spring-boot-starter</artifactId>
+    <version>x.x.x</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-pool2</artifactId>
+    <version>x.x.x</version>
+</dependency>
+```
 
 
 
